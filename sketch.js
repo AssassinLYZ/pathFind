@@ -29,15 +29,9 @@ let heading3
 
 
 function setup() {
-    createCanvas(1106, 725);
-  
+    createCanvas(1098, 725);
     LENGTH = height / ROWS
     COLS = round(width / LENGTH)
-
-    console.log(height, width, ROWS, COLS)
-
-
-
     BoardObj = new Board(ROWS, COLS)
     ai = new AI(BoardObj)
     // creating the elements
