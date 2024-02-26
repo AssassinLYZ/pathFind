@@ -1,2 +1,2 @@
 # Path-Finding-Visualisation
-This is a Algorithm visualization for my assessment 
+This is a Path Finding Algorithm visualization for my assessment 
